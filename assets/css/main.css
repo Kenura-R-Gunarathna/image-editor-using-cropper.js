@@ -1,0 +1,6 @@
+#image-preview {
+  max-width: 300px;
+  max-height: 300px;
+  border: 1px solid #ddd;
+  overflow: hidden;
+}

@@ -1,6 +1,6 @@
 # Image Cropper and Zoomer
 
-Crop and Zoom pictures before upload using cropper js.
+Crop and Zoom pictures before upload using cropper js. This uses a canvas to edit the images and send the data as a base64 text which can be retried by the server using any method like `POST`, `PUT` etc.
 
 ## Requirements
 
